@@ -1,7 +1,9 @@
 Производители;Лого;Цвет;Упаковка;MQM;Цена
-http://qoo.by/QWw;+;любой;конверт;;0.8
-http://qoo.by/QWE;+;расческа;2-3 с чехлом
-http://qoo.by/QWN;расческа+ножницы
+http://qoo.by/QWw;+;любой;конверт;;0.8$
+http://qoo.by/QWE;+;расческа;2-3$ с чехлом
+http://qoo.by/QWN;расческа+ножницы+щетка+каробка;0.7-1.2$
+http://qoo.by/QXQ;расческа+чехол;;;;3$
+
 
 
 Hello, I have a few questions.
@@ -18,13 +20,42 @@ Hello, I have a few questions.
 with regard, Igor
 
 
-Набор (расческа, чехол, ножницы) - http://qoo.by/QWN
+Набор (коробка, расческа, чехол, ножницы) - http://qoo.by/QWN
 Hello, I have a few questions.
 	1. Do you offer samples and how much including DHL Express Shipping to Russian Federation zip code 127540? 
 	2. How long to receive 2 samples?
 	3. Can we pay using PayPal? 
 	4. Can we brand with our logo? 
-        5. There are more options for packaging? Photo, price ...
+    5. There are more options for packaging? Photo, price ...
+	6. What is the cost per unit including shipping by DHL Air Express to
+	   United States Zip Code 89076 (lot size of 200 or 600 pieces)? 
+	7. How long for manufacturing once we place order?
+	8. Do you accept Escrow payments?
+
+with regard, Igor
+
+
+Набор (расческа+кредитница) - http://qoo.by/QXW
+Hello, I have a few questions.
+	1. Do you offer samples and how much including DHL Express Shipping to Russian Federation zip code 127540? 
+	2. How long to receive 2 samples (red and blue whitch any log)?
+	3. Can we pay using PayPal? 
+	4. Can we brand with our logo? 
+    5. There are more options for packaging? Photo, price ...
+	6. What is the cost per unit including shipping by DHL Air Express to
+	   United States Zip Code 89076 (lot size of 200 or 600 pieces)? 
+	7. How long for manufacturing once we place order?
+	8. Do you accept Escrow payments?
+
+with regard, Igor
+
+Набор (коробка, расческа, чехол) - http://qoo.by/QXR
+Hello, I have a few questions.
+	1. Do you offer samples and how much including DHL Express Shipping to Russian Federation zip code 127540? 
+	2. How long to receive 2 samples?
+	3. Can we pay using PayPal? 
+	4. Can we brand with our logo? 
+    5. There are more options for packaging? Photo, price ...
 	6. What is the cost per unit including shipping by DHL Air Express to
 	   United States Zip Code 89076 (lot size of 200 or 600 pieces)? 
 	7. How long for manufacturing once we place order?
